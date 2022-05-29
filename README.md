@@ -1,0 +1,1 @@
+<h1>ICO App based on my NFT collection</h1>
